@@ -47,5 +47,5 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/shankar-narayanan-d-8b110b17b/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Deepan" height="30" width="30" /></a>
-<a href="https://www.instagram.com/https://www.instagram.com/shankar_danasekaran/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="iamdeepann" height="30" width="30" /></a>
+<a href="https://www.instagram.com/shankar_danasekaran/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="iamdeepann" height="30" width="30" /></a>
 </p>
