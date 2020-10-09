@@ -1,12 +1,12 @@
-### Hi there 👋
+### Hi there  <img src="https://raw.githubusercontent.com/DeepanNarayanaMoorthy/DeepanNarayanaMoorthy/master/wave.gif" width="30px">
     I am Shankar Narayanan D, aspiring Full Stack Developer, passionate about Full Stack, Computer Science, Data Structures
     and Core Languages C++, Python and JS. As of now I'm a Front-End developer working and contributing several projects
     related to web app development. And I'm from India, currently studying 3rd Year MSc Theoretical Computer Science at 
-    PSG College of Technology. Connect with me at [![LinkedIn][2.2]][2].
+    PSG College of Technology. 
 
 ## &#x1F527; Tools and Technologies
 
-<p align="left">
+<p align="center">
 <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>
@@ -25,7 +25,6 @@
 <img src="https://devicons.github.io/devicon/devicon.git/icons/visualstudio/visualstudio-plain.svg" alt="vs-code" width="40" height="40"/>
 </p>
 
-
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/dshankar4/dshankar4">
@@ -38,12 +37,12 @@
 
 
 <!-- links to your social media accounts -->
-
+[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 [1]: https://github.com/dshanakr4
 [2]: https://www.linkedin.com/in/shankar-narayanan-d-8b110b17b/
 
 
-![](https://komarev.com/ghpvc/?username=dshankar4&color=yellow)
+![](https://komarev.com/ghpvc/?username=shankard4&color=yellow)
 
 <p align="center">
 <a href="https://www.linkedin.com/in/shankar-narayanan-d-8b110b17b/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Deepan" height="30" width="30" /></a>
