@@ -2,7 +2,7 @@
     I am Shankar Narayanan D, aspiring Full Stack Developer, passionate about Full Stack, Computer Science, Data Structures
     and Core Languages C++, Python and JS. As of now I'm a Front-End developer working and contributing several projects
     related to web app development. And I'm from India, currently studying 3rd Year MSc Theoretical Computer Science at 
-    PSG College of Technology [Github](https://www.github/com/dshankar4)
+    PSG College of Technology. Connect with me at [![LinkedIn][2.2]][2].
 
 ## &#x1F527; Tools and Technologies
 
